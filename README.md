@@ -19,3 +19,32 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+🛠️ Implementação
+O projeto foi implementado respeitando todas as regras descritas acima, utilizando apenas recursos nativos da linguagem C#.
+
+Classe Reserva
+Principais responsabilidades:
+Validar capacidade da suíte
+Cadastrar hóspedes
+Calcular quantidade de hóspedes
+Calcular valor total da reserva com desconto
+
+🚀 Tecnologias Utilizadas
+.NET
+C#
+Programação Orientada a Objetos (POO)
+
+🎯 Objetivo do Desafio
+Consolidar o entendimento sobre:
+Classes e propriedades
+Métodos e validações
+Lançamento de exceções
+Regras de negócio
+Boas práticas iniciais em C#
+
+👤 Autor
+João Matheus
+Estudante de Desenvolvimento de Sistemas | .NET
+
+Projeto desenvolvido para fins educacionais na plataforma DIO.
