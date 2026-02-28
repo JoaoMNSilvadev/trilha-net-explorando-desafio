@@ -1,5 +1,31 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
+# dio-dotnet-explorando
 www.dio.me
+
+Projeto desenvolvido durante o Bootcamp Back-end .NET da DIO com foco em recursos intermediários do C# e da plataforma .NET.
+
+## Sobre o projeto
+
+Este projeto foi criado para explorar funcionalidades intermediárias da linguagem C#.
+
+## Conceitos praticados
+
+- Manipulação de dados
+- Coleções
+- Métodos
+- Estruturas de controle
+- Aplicação Console
+
+## Tecnologias utilizadas
+
+- C#
+- .NET
+- Git
+- GitHub
+
+## Autor
+
+João Matheus do Nascimento Silva
+
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
